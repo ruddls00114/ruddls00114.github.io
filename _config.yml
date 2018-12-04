@@ -1,5 +1,5 @@
 # Site settings
-title: KyoungIn Blog
+title: <br> KyoungIn Blog </br>
 SEOTitle: KI Blog
 header-img: img/home-bg.jpg
 email: kkmm0114@gmail.com
@@ -102,9 +102,9 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
+        title: "jjjpark",
+        href: "https://jjjpark.github.io"
+    },{
         title: "VictoryWoo",
         href: "http://woovictory.github.io"
     },{
