@@ -7,7 +7,7 @@ author:     "kyoungIn"
 header-type: "text"
 tags:
     - Algorithm
-    - BOJ
+    - Programmers
 ---
 # 수박수박수박수박수박수? 
 
