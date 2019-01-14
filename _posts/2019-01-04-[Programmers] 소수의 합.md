@@ -9,7 +9,7 @@ tags:
     - Algorithm
     - Programmers
 ---
-# 서울에서 김서방 찾기
+# 소수의 합
 
 문제 링크 : (https://programmers.co.kr/learn/courses/30/lessons/14406)
 
