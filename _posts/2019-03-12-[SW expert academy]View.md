@@ -2,14 +2,14 @@
 layout:     post
 title:      "[SW expert academy]1206.View"
 subtitle:   ""
-date:       2019-03-12 10:40:00
+date:       2019-03-12 12:40:00
 author:     "kyoungIn"
 header-type: "text"
 tags:
     - Algorithm
     - SW expert
 ---
-### 1206. [S/W 문제해결 기본] 1일차 - [View](https://www.swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AV6kld8aisgDFASb&contestProbId=AV134DPqAA8CFAYh&probBoxId=AV6kld8aiskDFASb&type=PROBLEM&problemBoxTitle=%EC%82%BC%EC%84%B1%EC%8B%9C%ED%97%98%EB%8C%80%EB%B9%84+%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C%28%EB%82%9C%EC%9D%B4%EB%8F%84+1~3%29&problemBoxCnt=15)
+# 1206. [S/W 문제해결 기본] 1일차 - [View](https://www.swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AV6kld8aisgDFASb&contestProbId=AV134DPqAA8CFAYh&probBoxId=AV6kld8aiskDFASb&type=PROBLEM&problemBoxTitle=%EC%82%BC%EC%84%B1%EC%8B%9C%ED%97%98%EB%8C%80%EB%B9%84+%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C%28%EB%82%9C%EC%9D%B4%EB%8F%84+1~3%29&problemBoxCnt=15)
 
 
 
