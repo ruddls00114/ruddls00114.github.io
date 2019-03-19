@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "[SWEA]N\-Queen"
+title:      "[SWEA]N_Queen"
 subtitle:   "백트래킹, DFS"
 date:       2019-03-19 17:30:00
 author:     "kyoungIn
