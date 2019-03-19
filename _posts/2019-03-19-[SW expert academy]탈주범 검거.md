@@ -59,8 +59,8 @@ void bfs(int sy,int sx,int time){
             ++ans;
             for(int i=0;i<4;i++){
                 if(pipe[val][i]==0) continue;
-              	if(nx<0 || ny <0 || nx>= X || ny >= Y) continue;
                 int nx=x+dx[i],ny=y+dy[i], nval=arr[ny][nx];
+              	if(nx<0 || ny <0 || nx>= X || ny >= Y) continue;
                 int ni= i>=2 ? i-2 : i+2 ;	
                 if(visit[ny][nx]==1 || pipe[nval][ni]==0) continue;
                 else{
