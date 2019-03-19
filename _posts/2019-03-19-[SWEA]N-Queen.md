@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "[SW expert academy]N-Queen"
-subtitle:   "백트래킹,dfs"
+title:      "[SWEA]N-Queen"
+subtitle:   "백트래킹, DFS"
 date:       2019-03-19 17:30:00
 author:     "kyoungIn
 header-type: "text"
 tags:
     - Algorithm
-    - SW expert
+    - SWEA
 ---
 # N-Queen
 
