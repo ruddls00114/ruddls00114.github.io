@@ -1,0 +1,49 @@
+---
+layout:     post
+title:      "[SW expert academy]수영장"
+subtitle:   ""
+date:       2019-03-19 11:50:00
+author:     "kyoungIn"
+header-type: "text"
+tags:
+    - Algorithm
+    - SW expert
+---
+# 수영장
+
+## [링크](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AV6kld8aisgDFASb&contestProbId=AV5PpFQaAQMDFAUq&probBoxId=AV732SG66sEDFAW7&type=PROBLEM&problemBoxTitle=%EC%82%BC%EC%84%B1+%EC%8B%A0%EC%9E%85+%EB%AA%A8%EC%9D%98+sw+%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8+%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C&problemBoxCnt=10)
+
+### 풀이 
+
+1시간도 안걸렸다 신난다아
+
+```cpp
+#include <iostream>
+#include <algorithm>
+
+using namespace std;
+int main(){
+    int arr[13]={0},dp[13]={0},ticket[4];
+    int T; cin >> T;
+    for(int t=1;t<=T;t++){
+        int val;
+        for(int i=0;i<4;i++)
+            cin >> ticket[i];	//정기권 금액
+        for(int i=1;i<=12;i++)
+            cin >> arr[i];	//출석 일수
+        
+        for(int i=1;i<=12;i++){
+            val=arr[i];
+            dp[i]=min(val*ticket[0],ticket[1]);
+            if(i>2 && dp[i-1]+dp[i] >= dp[i-3]+ticket[2])//3개월권이 이득이면
+                dp[i]=dp[i-3]+ticket[2];
+            else
+                dp[i]+=dp[i-1];	
+        }
+        dp[12]=min(ticket[3],dp[12]);	//1년권이랑 비교
+        cout << "#"<<t<< " " <<dp[12]<<'\n';
+    }
+}
+```
+
+
