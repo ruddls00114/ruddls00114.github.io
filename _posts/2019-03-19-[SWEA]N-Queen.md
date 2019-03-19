@@ -1,14 +1,16 @@
 ---
 layout:     post
-title:      "[SWEA]N Queen"
+title:      "[SWEA]N-Queen"
 subtitle:   "백트래킹, DFS"
 date:       2019-03-19 17:30:00
-author:     "kyoungIn
+author:     "kyoungIn"
 header-type: "text"
 tags:
     - Algorithm
     - SWEA
 ---
+
+
 # N-Queen
 
 ## [링크](https://www.swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AV6kld8aisgDFASb&contestProbId=AV7GKs06AU0DFAXB&probBoxId=AV6kld8aiskDFASb&type=PROBLEM&problemBoxTitle=%EC%82%BC%EC%84%B1%EC%8B%9C%ED%97%98%EB%8C%80%EB%B9%84+%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C%28%EB%82%9C%EC%9D%B4%EB%8F%84+1~3%29&problemBoxCnt=15)
