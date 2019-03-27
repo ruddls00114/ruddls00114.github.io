@@ -1,7 +1,7 @@
 # Site settings
 title: <br> KyoungIn Blog </br>
 SEOTitle: KI Blog
-header-img: img/home-bg.jpg
+header-img: img/home-art.jpg
 email: kkmm0114@gmail.com
 description: Dev Lover，Server Developer |"
 keyword: "git, KI-Blog, KyoungIn,Developer, nodeJS, PS, BOJ, Algorithm, Web, JavaScript,"
@@ -34,6 +34,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 plugins:
     - jekyll-sitemap
+    - jekyll-paginate
 
 
 
