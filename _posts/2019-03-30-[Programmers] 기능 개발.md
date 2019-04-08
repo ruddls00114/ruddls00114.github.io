@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "[Programmers] "기능 개발"
+title:      "[Programmers] 기능 개발"
 subtitle:   "프로그래머스 level2"
 date:       2019-03-30 19:22:00
 author:     "kyoungIn"

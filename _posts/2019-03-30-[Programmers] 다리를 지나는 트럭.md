@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "[Programmers] "다리를 지나는 트럭"
+title:      "[Programmers] 다리를 지나는 트럭"
 subtitle:   "프로그래머스 level2"
 date:       2019-03-30 21:22:00
 author:     "kyoungIn"

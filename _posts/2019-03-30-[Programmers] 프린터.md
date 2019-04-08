@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "[Programmers] "프린터"
+title:      "[Programmers] 프린터"
 subtitle:   "프로그래머스 level2"
 date:       2019-03-30 20:22:00
 author:     "kyoungIn"
