@@ -2,7 +2,7 @@
 layout:     post
 title:      "API Gateway"
 subtitle:   ""
-date:       2019-05-29 20:40:00
+date:       2019-05-29 16:50:00
 author:     "kyoungIn"
 header-type: "text"
 tags:
